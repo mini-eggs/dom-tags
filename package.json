@@ -1,0 +1,16 @@
+{
+  "name": "dom-tags",
+  "version": "1.0.1",
+  "description": "List of dom tags.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom",
+    "tags",
+    "list"
+  ],
+  "author": "Evan M Jones <me@evanjon.es> (https://evanjon.es/)",
+  "license": "MIT"
+}
